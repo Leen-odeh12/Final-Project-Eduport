@@ -35,5 +35,9 @@ To run this project in your local device:
 <br><br>
 ![7](https://github.com/Leen-odeh12/Eduport_LMS/assets/123558998/0bc537bd-9cd2-4531-8fc4-d121579506f9)
 <br><br>
-#  I'll be glad seeing your feedback
+## Acknowledgement
+##### I extend my sincere gratitude to Gaza Sky Geeks for granting me the opportunity to participate in this internship cycle. Their unwavering support has been instrumental throughout the development of this project
+ <center> <img src="https://github.com/Leen-odeh3/Eduport_LMS/assets/123558998/b84185a9-81ef-49fd-b52a-99577c40d63c"</center>
+
+## I'll be glad seeing your feedback
 
